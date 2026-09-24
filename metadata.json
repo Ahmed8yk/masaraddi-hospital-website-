@@ -1,0 +1,6 @@
+{
+  "name": "Masaraddi Neuro Care Center",
+  "description": "Premium hospital website and local healthcare platform for Masaraddi Neuro Care Center in Bagalkot, Karnataka, featuring real hospital slideshow, verified patient information, direct Call/WhatsApp contact, and AI patient support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
